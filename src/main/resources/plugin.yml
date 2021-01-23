@@ -1,0 +1,11 @@
+name: SentinelSpawner
+description: Spawns random Sentinel NPCs.
+
+depend: [ "Citizens", "Sentinel" ]
+
+website: https://www.savagedev.net/
+author: SavageAvocado
+
+main: net.savagedev.sentinelspawner.SentinelSpawner
+api-version: "1.13"
+version: 0.1.0
