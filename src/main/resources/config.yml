@@ -1,0 +1,7 @@
+# This includes skeletons, zombies & Sentinels. This does not affect the server spawn rate. Just this plugin.
+max-mobs-per-chunk: 5
+
+# Percent out of 100 total that a Sentinel will "run up on a nig*a."
+sentinel-spawn-chance: 10
+
+natural-sentinel-name: "&0&lTHE SHADOWFIGURE (Hatman)"

@@ -6,6 +6,6 @@ depend: [ "Citizens", "Sentinel" ]
 website: https://www.savagedev.net/
 author: SavageAvocado
 
-main: net.savagedev.sentinelspawner.SentinelSpawner
+main: net.savagedev.sentinelspawner.SentinelSpawnerPlugin
 api-version: "1.13"
-version: 0.1.0
+version: ${version}
